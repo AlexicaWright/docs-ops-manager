@@ -2,9 +2,10 @@
 :description: This section provides details on server installation.
 
 Server installation is a two-step process.
-The first step, as described in the next section, is to setup a Neo4j DBMS to act as persistence storage for NOM.
+The first step, as described in the next section, is to set up a Neo4j DBMS to act as persistence storage for NOM.
 
-The second step is to download and configure arguments and/or environment variables to the specific environment you want to run NOM in and either install NOM as a service or run it as a console application.
+The second step is to download and configure arguments and/or environment variables to the specific environment you want to run NOM in.
+You can either install NOM _as a service_ or run it _as a console application_.
 Both ways are described in the following sections.
 Running as a service is the recommended way of operating the NOM Server.
 
